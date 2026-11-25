@@ -1,0 +1,4 @@
+product_id,name,category,brand,price,ram_gb,storage_gb,rating,processor,description,product_url
+1,IdeaPad Slim 3,Laptop,Lenovo,45000,16,512,4.3,Ryzen 5,Good for programming,PASTE_ACTUAL_PRODUCT_URL
+2,Inspiron 15,Laptop,Dell,48000,16,1024,4.4,Intel i5,Good for multitasking,PASTE_ACTUAL_PRODUCT_URL
+3,HP 15s,Laptop,HP,42000,8,512,4.1,Ryzen 5,Good for everyday tasks,PASTE_ACTUAL_PRODUCT_URL
